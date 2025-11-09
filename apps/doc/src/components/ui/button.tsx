@@ -1,6 +1,4 @@
-/* eslint-disable perfectionist/sort-imports */
-import * as React from 'react'
-import type { VariantProps } from './cva'
+import type { VariantProps } from 'class-variance-authority'
 import { cva } from './cva'
 
 const buttonVariants = cva(
