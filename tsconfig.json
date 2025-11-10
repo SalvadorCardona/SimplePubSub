@@ -13,5 +13,7 @@
     "verbatimModuleSyntax": true,
     "skipDefaultLibCheck": true,
     "skipLibCheck": true
-  }
+
+  },
+  "exclude": ["apps/doc"]
 }

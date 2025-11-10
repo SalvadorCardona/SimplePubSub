@@ -4,7 +4,7 @@ import antfu from '@antfu/eslint-config'
 export default antfu(
   {
     ignores: [
-      '**/apps/doc/src/routes',
+      '**/apps',
       '**/routeTree.gen.ts',
       '**/router.tsx',
       // ...globs
